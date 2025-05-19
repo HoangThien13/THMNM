@@ -38,6 +38,5 @@ validateForm();">
     </div>
     <button type="submit" class="btn btn-primary">Thêm sản phẩm</button>
 </form>
-<a href="/project1/Product/" class="btn btn-secondary mt-2">Quay lại danh sách
-    sản phẩm</a>
+<a href="/Webbanhang/Product/" class="btn btn-secondary mt-2">Quay lại danh sách sản phẩm</a>
 <?php include 'app/views/shares/footer.php'; ?>
